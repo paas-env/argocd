@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: {{ include "hazelcast.fullname" . }}
+  name: hazelcast
 spec:
   replicas: {{ .Values.size }}
   selector:
