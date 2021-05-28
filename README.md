@@ -1,4 +1,4 @@
-# GitOps & ARGOCD per BBPM
+# GitOps & ARGOCD
 
 CONTENTS OF THIS FILE
 ---------------------
